@@ -1,0 +1,3 @@
+Employee ID : 1
+Employee age : 23
+Employee salary : 35000.1
